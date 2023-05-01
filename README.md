@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups & Inspecting Traffic Between Azure Virtual Machines</h1>
 In this tutorial, I observe network traffic to and from Azure Virtual Machines with Wireshark. I also experiment with Network Security Groups. <br />
 
 
